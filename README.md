@@ -1,4 +1,4 @@
-### Hello there! I'm Alejandra Osorio 👋
+### Hello there! I'm Alejandra Giraldo 👋
 - 🔭 I’m currently studying on Universidad del Valle.
 - 🌱 I’m currently learning Java.
 - 👩‍💻 Basic knowledge in python, C++.
