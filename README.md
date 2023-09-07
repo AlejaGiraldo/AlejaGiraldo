@@ -1,4 +1,6 @@
-###👋 Hello there! I'm Alejandra Osorio
+### Hello there! I'm Alejandra Osorio 👋
+- 🔭 I’m currently studying on Universidad del Valle.
+- 🌱 I’m currently learning Java.
 
 <!--
 **AlejaGiraldo/AlejaGiraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
