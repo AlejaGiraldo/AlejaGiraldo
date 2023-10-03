@@ -1,7 +1,7 @@
 ### Hello there! I'm Alejandra Giraldo 👋
 - 🔭 I’m currently studying on Universidad del Valle.
 - 🌱 I’m currently learning Java.
-- 👩‍💻 Basic knowledge in python, C++.
+- 👩‍💻 Basic knowledge in python, C++, Java.
 
 <!--
 **AlejaGiraldo/AlejaGiraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
