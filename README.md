@@ -1,6 +1,6 @@
 ### Hello there! I'm Alejandra Giraldo 👋
 - 🔭 I’m currently studying on Universidad del Valle.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Scala.
 - 👩‍💻 Basic knowledge in python, C++, Java.
 
 <!--
